@@ -8,10 +8,10 @@ pip install tensorflow
 # For GPU
 pip install tensorflow-gpu
 
-pip install pillow
-pip install lxml
-pip install jupyter
-pip install matplotlib
+pip install pillow <br>
+pip install lxml <br> 
+pip install jupyter <br>
+pip install matplotlib <br>
 
 # Download protobuf files - 
 https://github.com/google/protobuf/releases
